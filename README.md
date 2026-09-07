@@ -17,7 +17,7 @@ I've done over 200 questions on LeetCode, but including other sites... it's prob
 - **[GPU-Accelerated Optimization](https://github.com/thisIsAyushFr/GPU-accelerated-optimization)** — ML research predicting whether workloads belong on CPU or GPU, based on workload characteristics and benchmarking. Paper under review.
 - **[BookVerse](https://github.com/thisIsAyushFr/BookVerse)** — A complete digital library management workflow: cataloging, members, circulation, fines, reservations, and role-based access. [Live Demo](https://thisisbookverse.vercel.app/)
 
-See more on my [projects page](https://thisisayushfr.vercel.app/projects).
+See more on my [projects page](https://github.com/thisIsAyushFr?tab=repositories).
 
 ## Fun Facts:
 - Hobbies: Chess, Gym, Research
